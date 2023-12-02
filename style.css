@@ -22,6 +22,20 @@
    border-radius: 0,5rem;
  }
 
+ .header, .main, .footer {
+   max-width: 600px;
+   margin: 0 auto;
+
+}
+
+.header {
+       /*border: 10px solid beige; */
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 2rem;
+      
+}
  .seccion1__lista {
     text-align:center ;
     display:flex;
