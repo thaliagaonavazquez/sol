@@ -15,8 +15,8 @@
    body {
     
       background-color:rgb(100, 85, 233) ;
-     
-  }
+   }
+
   .seccion1__item{
    background-color: black;
    border-radius: 0,5rem;
@@ -35,7 +35,15 @@
       align-items: center;
       padding: 2rem;
       
+
 }
+.header__parrafo {
+   text-align: center;
+   font-style: italic;
+   margin: 0 0 2rem 0;
+}
+
+
  .seccion1__lista {
     text-align:center ;
     display:flex;
